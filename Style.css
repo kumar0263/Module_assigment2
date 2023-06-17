@@ -1,0 +1,162 @@
+.container{
+    display: flex;
+}
+.btncont{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: -20px;
+}
+.Aboutcontainer{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1323px;
+    height: 588px;
+    left: 59px;
+    top: 137px;
+
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    box-sizing: border-box;
+}
+
+.item{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    padding-right: 20px;
+    
+}
+.body{
+    background-color: black;
+}
+.item1{
+    padding-right: 100px;
+}
+.btn0{
+    position: absolute;
+    width: 134px;
+    height: 53px;
+    left: 958px;
+    top: 33px;
+
+    background: #262626;
+    border-radius: 15px;
+}
+.btn1{
+    position: absolute;
+    width: 131px;
+    height: 53px;
+    left: 1125px;
+    top: 33px;
+
+    background: #262626;
+    border-radius: 15px;
+    }
+.btn2{
+    position: absolute;
+    width: 112px;
+    height: 53px;
+    left: 1280px;
+    top: 33px;
+
+    background: #262626;
+    border-radius: 15px;
+}
+.Search{
+    position: absolute;
+    width: 597px;
+    height: 53px;
+    left: 319px;
+    top: 33px;
+
+    background: #262626;
+    border-radius: 15px;
+}
+.images{
+    width: 159px;
+    height: 72px;
+    left: 59px;
+    top: 27px;
+    padding: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    border-radius: nullpx;
+
+}
+.AboutUs{
+    position: absolute;
+    width: 335px;
+    height: 53px;
+    left: 105px;
+    top: 178px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+
+    color: #FFFFFF;
+}
+.cart{
+    position: absolute;
+    width: 846px;
+    height: 53px;
+    left: 224px;
+    top: 322px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #C4C4C4;
+}
+.getlost{
+    position: absolute;
+    width: 291px;
+    height: 291px;
+    left: 1045px;
+    top: 231px;
+    position: absolute;
+    width: 846px;
+    height: 53px;
+    left: 224px;
+    top: 456px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #C4C4C4;
+}
+.Payments{
+    position: absolute;
+    width: 846px;
+    height: 53px;
+    left: 224px;
+    top: 590px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+
+    color: #C4C4C4;
+}
+.clock{
+    position: absolute;
+    width: 291px;
+    height: 291px;
+    left: 1045px;
+    top: 231px;
+}
